@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "autoAssignUnmapped": false,
+  "map": {
+    "ai-claude-cowork": {
+      "bg": "#ffb561",
+      "fg": "#000000"
+    },
+    "bug": {
+      "bg": "#fb8e8e",
+      "fg": "#000000"
+    },
+    "feature": {
+      "bg": "#00a895",
+      "fg": "#ffffff"
+    },
+    "tech-debt": {
+      "bg": "#f5f778",
+      "fg": "#000000"
+    },
+    "blocked": {
+      "bg": "#cc0000",
+      "fg": "#ffffff"
+    },
+    "ai-gemini": {
+      "bg": "#8ab1ff",
+      "fg": "#000000"
+    },
+    "ai-gemini-autobrowse": {
+      "bg": "#1f69ff",
+      "fg": "#fdfbc4"
+    },
+    "ai-claude": {
+      "bg": "#ffb561",
+      "fg": "#8c56f0"
+    },
+    "ai-gemini-vertex": {
+      "bg": "#fdfbc4",
+      "fg": "#0042c7"
+    },
+    "ai-claude-code": {
+      "bg": "#793aee",
+      "fg": "#f4c895"
+    },
+    "ai-chatgpt": {
+      "bg": "#b8b8b8",
+      "fg": "#000000"
+    },
+    "ai-chatgpt-copilot": {
+      "bg": "#545454",
+      "fg": "#ffffff"
+    }
+  }
+}
