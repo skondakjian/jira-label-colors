@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Node / tooling
+node_modules/
+
+# logs
+*.log
+
+# environment files
+.env
+
+# OS junk
+Thumbs.db
